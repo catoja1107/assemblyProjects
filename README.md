@@ -5,61 +5,53 @@ This repo is intellectual property of James Andrew Cato, /u/catoja1107. Unauthor
 
 # Project List
 
-## Lab 8
-
-This project blah
-
 ## Lab 9(a)
 
-All your files and folders are presented as a tree in the file explorer. You can switch from one to another by clicking a file in the tree.
+**Indirect Addressing & Indexed Operands**
+This program traverses two arrays, and indirectly modifies them using the ESI register as an index to the memory address of each array.
 
 ## Lab 9(b)
 
-You can rename the current file by clicking the file name in the navigation bar or by clicking the **Rename** button in the file explorer.
+**ML Loop**
+This program performs a loop at machine code level. It uses ECX as the loop counter and the EDI register as the destination index of an array, per x86 asm good practice.
 
 ## Lab 9(c)
 
-You can delete the current file by clicking the **Remove** button in the file explorer. The file will be moved into the **Trash** folder and automatically deleted after 7 days of inactivity.
+**ML Nested Loop**
+This program performs a similar function to **Lab 9(b)**, however it features an inner loop and stores the ECX value as a temp var for calling from the outer loop.
 
 ## Lab 9(d)
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+**Logical Instructions**
+This program features low-level logic such as AND, NAND, OR, XOR, NOR and their associated bit-wise comparisons.
 
 ## Lab 10
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+**Conditional Statements and ML Loop**
+This program incorporates simple logic to traverse an array and perform various operations based upon conditions checked.
 
 ## Lab 11
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+**Logical Statements & For, If, While Statements**
+This program contains intermediate to advanced ML Loops to check for variable values cached to 16-bit AX, BX registers and perform operations to return values back to less volatile memory than registers or L1/2/3 cache.
 
 ## Assign31
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Test
 
 ## Assign32
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Test
 
 ## Assign33
 
-You can export the current file by clicking **Export to disk** in the menu. You can choose to export the file as plain Markdown, as HTML using a Handlebars template or as a PDF.
+Test
 
 # Publication
 
-Publishing in StackEdit makes it simple for you to publish online your files. Once you're happy with a file, you can publish it to different hosting platforms like **Blogger**, **Dropbox**, **Gist**, **GitHub**, **Google Drive**, **WordPress** and **Zendesk**. With [Handlebars templates](http://handlebarsjs.com/), you have full control over what you export.
+Publishing is stricly forbidden on this material.
 
-> Before starting to publish, you must link an account in the **Publish** sub-menu.
-
-## Publish a File
-
-You can publish your file by opening the **Publish** sub-menu and by clicking **Publish to**. For some locations, you can choose between the following formats:
-
-- Markdown: publish the Markdown text on a website that can interpret it (**GitHub** for instance),
-- HTML: publish the file converted to HTML via a Handlebars template (on a blog for example).
-
-
-## UML diagrams
+## Result of Publication
 
 UML diagram framework provided by [Mermaid](https://mermaidjs.github.io/).
 
@@ -67,8 +59,8 @@ And this will produce a flow chart:
 
 ```mermaid
 graph LR
-A[SDLC] -- Foo --> B((Circle))
+A[Me] -- legal action --> B((Publication))
 A --> C(Round Rect)
-B --> D{Rhombus}
+B --> D{Lawsuit}
 C --> D
 ```
