@@ -50,17 +50,3 @@ Test
 # Publication
 
 Publishing is stricly forbidden on this material.
-
-## Result of Publication
-
-UML diagram framework provided by [Mermaid](https://mermaidjs.github.io/).
-
-And this will produce a flow chart:
-
-```mermaid
-graph LR
-A[Me] -- legal action --> B((Publication))
-A --> C(Round Rect)
-B --> D{Lawsuit}
-C --> D
-```
