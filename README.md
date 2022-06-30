@@ -1,6 +1,6 @@
 # x86 Assembly Projects
 
-This repo is intellectual property of James Cato, /u/catoja1107. Unauthorized access, reproduction, use, copying or modification of this material is restricted unless given explicit *hand-written* permission. **StackEdit**
+This repo is intellectual property of James Cato, /u/catoja1107. Unauthorized access, reproduction, use, copying or modification of this material is restricted unless given explicit *hand-written* permission.
 
 
 # Project List
