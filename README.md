@@ -41,7 +41,7 @@ Test
 
 ## Assign32
 
-Test
+**Split QWORD to 4*WORD**
 
 ## Assign33
 
