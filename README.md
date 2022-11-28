@@ -45,7 +45,7 @@ Test
 
 ## Assign33
 
-Test
+**Calculates and compares 4 vars**
 
 # Publication
 
